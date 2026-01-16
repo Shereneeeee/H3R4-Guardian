@@ -38,8 +38,12 @@ Ikuti langkah-langkah di bawah ini untuk mengaktifkan bot di PC, VPS, atau Termu
 ### **Langkah 1: Persiapan (Prerequisites)**
 Pastikan lu udah install Python 3.8 ke atas.
 ```bash
-python --version
-Langkah 2: Clone & Install LibraryCopy repository ini dan install library pendukung yang dibutuhkan (discord.py & rich).Bashgit clone [https://github.com/USERNAME_LU/NAMA_REPO.git](https://github.com/USERNAME_LU/NAMA_REPO.git)
-cd NAMA_REPO
+
+##Langkah 2: Clone & Install Library
+Copy repository ini dan install library pendukung yang dibutuhkan (discord.py & rich).
+
+Bash
+
+git clone https://github.com/Shereneeeee/H3R4-Guardian
+cd H3R4-Guardian
 pip install -r requirements.txt
-Langkah 3: Konfigurasi BotJalankan bot untuk pertama kali: python main.pyMasukkan Opsi 1 untuk mengisi Token Bot (Ambil dari Discord Developer Portal).Masukkan Opsi 2 untuk mengisi ID Role Moderator agar lu dan tim lu tidak terkena sensor bot.Pilih Opsi 4 (LAUNCH KERNEL) untuk menghubungkan bot ke Discord.📜 Perintah Bot (Commands)CommandDeskripsiIzin (Permission)?helpMenampilkan menu bantuan estetikSemua Member?kick @userMengeluarkan member dari serverKick Members?ban @userMemblokir member secara permanenBan Members?purge [n]Menghapus pesan dalam jumlah tertentuManage Messages?addword [kata]Menambah kata kasar ke daftar sensorAdministrator?addresp [a]|[b]Menambah respon otomatis botAdministrator?emergencyLockdown seluruh serverAdministrator
