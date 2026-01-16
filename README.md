@@ -32,6 +32,7 @@ Perintah `?emergency` akan mengunci seluruh channel di server dalam hitungan det
 ---
 
 🛡️ PROTECTION PROTOCOLS
+
 ?emergency — Lockdown Global! Mengunci semua channel di server sekaligus. (Admin Only)
 
 ?unemergency — Memulihkan seluruh channel server ke keadaan semula. (Admin Only)
@@ -48,6 +49,7 @@ Perintah `?emergency` akan mengunci seluruh channel di server dalam hitungan det
 ?purge [jumlah] — Menghapus pesan dalam jumlah banyak secara instan.
 
 🤖 AUTOMATION & DATABASE
+
 ?addword [kata] — Menambahkan kata baru ke dalam daftar sensor otomatis.
 
 ?listword — Menampilkan semua kata yang saat ini disensor oleh bot.
@@ -57,6 +59,7 @@ Perintah `?emergency` akan mengunci seluruh channel di server dalam hitungan det
 ?delresp [pemicu] — Menghapus respon otomatis yang sudah ada.
 
 🔍 INFORMATION & INTEL
+
 ?help — Membuka menu pusat bantuan H3R4 OMNIPOTENT.
 
 ?userinfo @user — Menampilkan detail intelijen akun (ID, Tanggal Join, dll).
@@ -66,6 +69,7 @@ Perintah `?emergency` akan mengunci seluruh channel di server dalam hitungan det
 ?uptime — Melihat durasi sistem telah berjalan tanpa restart.
 
 💡 CARA PENGGUNAAN CEPAT:
+
 Sensor Kata: Ketik ?addword anjing -> Maka setiap member (non-mod) yang ketik kata itu pesannya akan dihapus.
 
 Balas Otomatis: Ketik ?addresp halo | halo juga user! -> Bot akan otomatis membalas setiap ada yang ketik 'halo'.
