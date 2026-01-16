@@ -1,34 +1,21 @@
-# H3R4-Guardian
-auto moderation on discord with python
 
-[H̶3̶R̶4̶ E̶x̶e̶c̶u̶t̶i̶v̶e̶.][DOCUMENTATION UPGRADE: H3R4 OMNIPOTENT V19.0 # 🛡️ H3R4 OMNIPOTENT V19.0 (PRO)
-> **Advanced Discord Moderation Kernel with Real-Time Interactive Terminal GUI.**
+🛡️ H3R4 OMNIPOTENT KERNEL V25.0
+Supreme Titan Edition - Sebuah sistem manajemen dan perlindungan Discord tingkat lanjut dengan integrasi Terminal GUI (TUI) real-time.
 
-[![Version](https://img.shields.io/badge/Version-20.0-red.svg)](#)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#)
+🚀 Ikhtisar (Overview)
+H3R4 OMNIPOTENT KERNEL adalah bot Discord berbasis Python yang dirancang untuk stabilitas tinggi dan kontrol penuh melalui terminal. Menggunakan library Rich, bot ini menampilkan dashboard interaktif langsung di console Anda, memantau log aktivitas, latensi, dan status sistem secara real-time.
 
----
 
-## 🌟 Fitur Utama (Features)
+✨ Fitur Utama
+🛡️ Advanced Protection: Sistem Global Lockdown (Emergency mode) untuk mengunci seluruh channel secara instan.
 
-H3R4 OMNIPOTENT bukan sekadar bot biasa. Ini adalah sistem kernel yang berjalan dengan efisiensi tinggi dan antarmuka interaktif.
+⚖️ Smart Moderation: Sistem Strike otomatis (3 kali pelanggaran = Auto Mute), Purge pesan, Kick, dan Ban.
 
-### 1. **Interactive Management Panel**
-Tidak perlu mengedit file kode (`.py`) untuk memasukkan Token atau ID Role. Bot dilengkapi dengan panel menu saat pertama kali dijalankan (Opsi 1-5).
+📊 Real-Time GUI: Dashboard terminal yang indah dengan Live Logs, indikator Uptime, dan Latency Guard.
 
-### 2. **Real-Time Live Logger**
-Setiap aktivitas di server Discord lu (Kick, Ban, Sensor, Command) akan tercatat secara instan di terminal dengan tampilan visual yang estetik menggunakan library `Rich`.
+⚙️ Dynamic Database: Konfigurasi tersimpan secara lokal dalam h3r4_guardian_config.json.
 
-### 3. **Smart Security Sensor**
-Sistem filter kata kasar (Blacklist) yang cerdas. Bot akan otomatis menghapus pesan toxic dan melewati (bypass) pemeriksaan jika pengirim pesan adalah Admin atau Moderator.
-
-### 4. **Dynamic Auto-Response**
-Lu bisa nambahin jawaban otomatis bot langsung dari dalam Discord menggunakan command `?addresp`. Sangat berguna untuk FAQ atau sambutan otomatis.
-
-### 5. **Emergency Lockdown**
-Perintah `?emergency` akan mengunci seluruh channel di server dalam hitungan detik untuk mencegah serangan raid atau spam massal.
-
+🤖 Auto-Response: Sistem respon otomatis berbasis kata kunci yang dapat dikonfigurasi langsung dari Discord.
 ---
 
 🛡️ PROTECTION PROTOCOLS
