@@ -31,20 +31,47 @@ Perintah `?emergency` akan mengunci seluruh channel di server dalam hitungan det
 
 ---
 
+🛡️ PROTECTION PROTOCOLS
+?emergency — Lockdown Global! Mengunci semua channel di server sekaligus. (Admin Only)
 
-?help,-,Membuka pusat bantuan visual H3R4,                                    Semua Member
-?ping,-,Cek kecepatan respon (latensi) bot,                                   Semua Member
-?uptime,-,Melihat berapa lama bot sudah aktif,                                Semua Member
-?userinfo,@user,Mengambil intel detail akun member,                           Semua Member
-?kick,@user [alasan],Mengeluarkan member dari server,                           Moderator
-?ban,@user [alasan],Blokir member permanen dari server,                         Moderator
-?purge,[jumlah],Menghapus pesan secara massal (max 100),                        Moderator
-?lock,-,Mengunci channel agar member tidak bisa chat,                           Moderator
-?unlock,-,Membuka kembali channel yang terkunci,                                Moderator
-?addword,[kata],Menambah kata kasar ke daftar sensor,                         Administrator
-?addresp,[pemicu]|[respon],Set jawaban otomatis (pake pemisah |),             Administrator
-?emergency,-,Lockdown Global: Kunci seluruh channel,                          Administrator
-?unemergency,-,Membuka kembali seluruh server,                                Administrator
+?unemergency — Memulihkan seluruh channel server ke keadaan semula. (Admin Only)
+
+?lock — Mengunci channel yang sedang digunakan saja. (Staff Only)
+
+?unlock — Membuka kembali channel yang sedang dikunci. (Staff Only)
+
+⚖️ MODERATION SYSTEM
+?kick @user [alasan] — Mengeluarkan member dari server dengan catatan.
+
+?ban @user [alasan] — Memblokir member secara permanen dari server.
+
+?purge [jumlah] — Menghapus pesan dalam jumlah banyak secara instan.
+
+🤖 AUTOMATION & DATABASE
+?addword [kata] — Menambahkan kata baru ke dalam daftar sensor otomatis.
+
+?listword — Menampilkan semua kata yang saat ini disensor oleh bot.
+
+?addresp [pemicu] | [jawaban] — Membuat respon otomatis (Gunakan tanda | sebagai pemisah).
+
+?delresp [pemicu] — Menghapus respon otomatis yang sudah ada.
+
+🔍 INFORMATION & INTEL
+?help — Membuka menu pusat bantuan H3R4 OMNIPOTENT.
+
+?userinfo @user — Menampilkan detail intelijen akun (ID, Tanggal Join, dll).
+
+?ping — Mengecek kecepatan koneksi bot ke server Discord.
+
+?uptime — Melihat durasi sistem telah berjalan tanpa restart.
+
+💡 CARA PENGGUNAAN CEPAT:
+Sensor Kata: Ketik ?addword anjing -> Maka setiap member (non-mod) yang ketik kata itu pesannya akan dihapus.
+
+Balas Otomatis: Ketik ?addresp halo | halo juga user! -> Bot akan otomatis membalas setiap ada yang ketik 'halo'.
+
+Bersih Chat: Ketik ?purge 20 -> 20 pesan terakhir akan langsung hilang.
+
 
 ## 🛠️ Panduan Setup (Setup Guide)
 
