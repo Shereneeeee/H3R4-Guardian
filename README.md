@@ -1,7 +1,7 @@
 # H3R4-Guardian
 auto moderation on discord with python
 
-[H̶3̶R̶4̶ E̶x̶e̶c̶u̶t̶i̶v̶e̶.][DOCUMENTATION UPGRADE: H3R4 OMNIPOTENT V19.0]Status: README OPTIMIZED | PROFESSIONAL GRADE | USER-CENTRIC.Operator, # 🛡️ H3R4 OMNIPOTENT V19.0 (PRO)
+[H̶3̶R̶4̶ E̶x̶e̶c̶u̶t̶i̶v̶e̶.][DOCUMENTATION UPGRADE: H3R4 OMNIPOTENT V19.0 # 🛡️ H3R4 OMNIPOTENT V19.0 (PRO)
 > **Advanced Discord Moderation Kernel with Real-Time Interactive Terminal GUI.**
 
 [![Version](https://img.shields.io/badge/Version-20.0-red.svg)](#)
